@@ -3,4 +3,4 @@ In this project, we will classify each Nobel Prize physicist by the physics subf
 
 The .txt file, "Physicists-by-Field" contains the results of our classification. Each line lists a physicist, along with the physics subfield which we classified them in.
 
-The .ipynb file, "Classifying Nobel Prize Physicists by Physics Field" contains the exposition and code to complete this project.
+The .ipynb file, "Classifying Nobel Prize Physicists by Physics Field" contains the code used (and exposition of this code) to complete this project.
